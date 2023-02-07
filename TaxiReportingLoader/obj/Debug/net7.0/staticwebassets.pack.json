@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Artur\\source\\repos\\TaxiReportingLoader\\TaxiReportingLoader\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TaxiReportingLoader.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TaxiReportingLoader.props",
+      "PackagePath": "build\\TaxiReportingLoader.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TaxiReportingLoader.props",
+      "PackagePath": "buildMultiTargeting\\TaxiReportingLoader.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TaxiReportingLoader.props",
+      "PackagePath": "buildTransitive\\TaxiReportingLoader.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

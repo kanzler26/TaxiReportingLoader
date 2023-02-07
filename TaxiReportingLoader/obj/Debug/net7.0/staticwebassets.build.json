@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "iqoX+513D4Q86Uh4jYIWMRCh37ZTxIQ1Yj+ys6gur/E=",
+  "Source": "TaxiReportingLoader",
+  "BasePath": "_content/TaxiReportingLoader",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaxiReportingLoader\\wwwroot",
+      "Source": "TaxiReportingLoader",
+      "ContentRoot": "C:\\Users\\Artur\\source\\repos\\TaxiReportingLoader\\TaxiReportingLoader\\wwwroot\\",
+      "BasePath": "_content/TaxiReportingLoader",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Artur\\source\\repos\\TaxiReportingLoader\\TaxiReportingLoader\\wwwroot\\index.html",
+      "SourceId": "TaxiReportingLoader",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Artur\\source\\repos\\TaxiReportingLoader\\TaxiReportingLoader\\wwwroot\\",
+      "BasePath": "_content/TaxiReportingLoader",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
